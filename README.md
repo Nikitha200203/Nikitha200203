@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Nikitha.M 
+
+                                                                    # 👋 Hi, I’m Nikitha.M  
 - 👀 I’m interested in data science and cybersecurity. I enjoy working on projects that involve data analysis, machine learning, and understanding security protocols.
 - 🌱 I’m currently learning remote sensing and digital image analysis.
 
